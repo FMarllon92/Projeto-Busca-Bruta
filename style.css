@@ -58,6 +58,10 @@ a{
     color: black;
 }
 
+a:hover{
+    color: blue;
+}
+
 input{
     margin: 20px;
     padding: 20px;
